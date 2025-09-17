@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Graduando em Banco de Dados na FATEC com formação técnica em Informática pelo Senac.  
+Graduando em Banco de Dados na FATEC com formação técnica em Informática pelo SENAC.  
 
 Atualmente, atuo como Assistente de Planejamento, onde:
 
