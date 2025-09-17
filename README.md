@@ -13,14 +13,20 @@ Graduando em Banco de Dados na FATEC com formação técnica em Informática pel
 
 Atualmente, atuo como Assistente de Planejamento, onde:
 
-- 🚀 Desenvolvo automações de processos em Python  
+- 🚀 Desenvolvo automações de processos em Python 
+- 🖥️ Manutenção e operação de VMs em Linux no Google Cloud   
 - 📊 Realizo análise e gerenciamento de dados  
 - 📈 Construa relatórios que impulsionam decisões estratégicas  
 
-Durante minha trajetória, também:
+Durante minha trajetória, também adquiri outros conhecimentos:
 
-- 💻 Trabalhei com manutenção de computadores e gerenciamento de redes (SENAC)
-- 📚 Dominei o ciclo completo de um projeto full-stack: banco MySQL, CRUD em PHP, interações com JavaScript e interface em HTML/CSS  
+- Manutenção de computadores
+- Gerenciamento de redes
+- Criação e manutenção de banco de dados
+- Geração de fluxos e automações no N8N
+- Configuração e administração de discadores e filas de discagens
+- Construção e limpeza de bases
+  
 
 
 
