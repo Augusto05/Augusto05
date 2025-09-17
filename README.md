@@ -11,9 +11,9 @@
 
 Graduando em Banco de Dados na FATEC com formação técnica em Informática pelo SENAC.  
 
-Atualmente, atuo como Assistente de Planejamento, onde:
+Atualmente, atuo como Assistente de Planejamento, onde realizo:
 
-- 🚀 Desenvolvimento automações de processos em Python 
+- 🚀 Desenvolvimento de automações de processos em Python 
 - 🖥️ Manutenção e operação de VMs em Linux no Google Cloud   
 - 📊 Análise e gerenciamento de dados  
 - 📈 Geração de relatórios que impulsionam decisões estratégicas  
