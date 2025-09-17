@@ -1,16 +1,17 @@
-## Hi there 👋
+## Sobre Mim
 
-<!--
-**Augusto05/Augusto05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduando em Banco de Dados na FATEC com formação técnica em Informática pelo Senac.  
 
-Here are some ideas to get you started:
+Atualmente, atuo como Assistente de Planejamento, onde:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Desenvolvo automações de processos em Python  
+- 📊 Realizo análise e gerenciamento de dados  
+- 📈 Construa relatórios que impulsionam decisões estratégicas  
+
+Durante minha trajetória, também:
+
+- 💻 Trabalhei com manutenção de computadores e gerenciamento de redes (SENAC)
+- 📚 Dominei o ciclo completo de um projeto full-stack: banco MySQL, CRUD em PHP, interações com JavaScript e interface em HTML/CSS  
+
+
+
