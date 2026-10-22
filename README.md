@@ -9,14 +9,21 @@
 
 ## Sobre Mim
 
-Graduando em Banco de Dados na FATEC com formação técnica em Informática pelo SENAC.  
+Graduando em Banco de Dados na FATEC com formação técnica em Informática pelo SENAC.
 
-Atualmente, atuo como Analista de Planejamento, onde realizo:
+Atualmente, atuo como **Engenheiro de Soluções**, conectando necessidades de negócio a arquiteturas técnicas eficientes e escaláveis:
 
-- 🚀 Desenvolvimento de automações de processos em Python 
-- 🖥️ Manutenção e operação de VMs em Linux no Google Cloud   
-- 📊 Análise e gerenciamento de dados  
-- 📈 Geração de relatórios que impulsionam decisões estratégicas  
+- 🚀 **Automação & Integrações:** Desenvolvimento de fluxos automatizados e soluções sob medida com Python e JavaScript para otimização de processos e integração de sistemas.
+- ☁️ **Infraestrutura Cloud & Linux:** Provisionamento, sustentação e operação de ambientes em nuvem (Google Cloud Platform) e ecossistemas Linux.
+- 📊 **Engenharia & Inteligência de Dados:** Modelagem, governança e tratamento de dados para viabilizar tomadas de decisão e métricas acionáveis.
+- 💡 **Resolução de Problemas & Estratégia Técnica:** Desenho de soluções de ponta a ponta, alinhando eficiência operacional, confiabilidade e geração de valor direto para o cliente/negócio.
+
+---
+
+### Conhecimentos Complementares & Fundamentos
+- Infraestrutura local, redes e manutenção de hardware
+- Metodologias ágeis e governança de tecnologia
+ 
 
 Durante minha trajetória, também adquiri outros conhecimentos:
 
